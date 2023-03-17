@@ -10,7 +10,7 @@ None of the extensions I write collect any data at all. Since no data is collect
 
 ## Changes to the Privacy Policy
 
-If there are substantive1 changes made to this blanket privacy policy or to the individual privacy policies of any of my extensions, I will push out a new version of the affected extension(s) and ask you to agree to the amended privacy policy.
+If there are substantive changes made to this blanket privacy policy or to the individual privacy policies of any of my extensions, I will push out a new version of the affected extension(s) and ask you to agree to the amended privacy policy.
 
 ## Feedback
 
